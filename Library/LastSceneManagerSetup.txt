@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Infinity Dash.unity
+  isLoaded: 1
+  isActive: 1
